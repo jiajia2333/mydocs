@@ -8,6 +8,7 @@ Welcome to ARES's documentation!
    tutorial/model
    tutorial/benchmark
    tutorial/attack
+   tutorial/defense
 
 .. toctree::
    :maxdepth: 1
