@@ -1,26 +1,26 @@
-ares.dataset package
+robfr.dataset package
 ========================
 
-ares.dataset.cifar10 module
+robfr.dataset.lfw module
 -------------------------------
 
-.. automodule:: ares.dataset.cifar10
+.. automodule:: robfr.dataset.lfw
    :members:
    :undoc-members:
    :show-inheritance:
 
-ares.dataset.imagenet module
+robfr.dataset.ytf module
 --------------------------------
 
-.. automodule:: ares.dataset.imagenet
+.. automodule:: robfr.dataset.ytf
    :members:
    :undoc-members:
    :show-inheritance:
 
-ares.dataset.utils module
+robfr.dataset.cfp module
 -----------------------------
 
-.. automodule:: ares.dataset.utils
+.. automodule:: robfr.dataset.cfp
    :members:
    :undoc-members:
    :show-inheritance:

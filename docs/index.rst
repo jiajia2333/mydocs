@@ -1,4 +1,4 @@
-Welcome to ARES's documentation!
+Welcome to RobFR's documentation!
 ====================================
 
 .. toctree::
@@ -8,18 +8,16 @@ Welcome to ARES's documentation!
    tutorial/model
    tutorial/benchmark
    tutorial/attack
-   tutorial/defense
 
 .. toctree::
    :maxdepth: 1
    :caption: API Docs
 
-   api/ares.model
-   api/ares.loss
-   api/ares.attack
-   api/ares.defense
-   api/ares.benchmark
-   api/ares.dataset
+   api/robfr.model
+   api/robfr.attack
+   api/robfr.defense
+   api/robfr.benchmark
+   api/robfr.dataset
 
 Indices and tables
 ==================
